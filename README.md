@@ -1,2 +1,2 @@
 # HyperML
-A new Hyper textual as well as visaul Modeling Language
+A new Hyper textual as well as visual Modeling Language
